@@ -1,0 +1,10 @@
+YOUTUBE_API_KEY=your_youtube_api_key_here
+CHANNEL_ID=UCX6OQ3DkcsbYNE6H8uQQuVA
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.duckdb
+build/
+dist/
+*.egg-info/
